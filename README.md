@@ -14,6 +14,15 @@ conocimiento, sus procesos, sus personas, sus herramientas, sus reglas, sus
 datos, sus decisiones y sus sistemas. Esa capa permite que la empresa pueda ser
 comprendida, operada, automatizada y mejorada de manera continua.
 
+## Documentacion actual
+
+La guia en desarrollo vive en [docs/](./docs/):
+
+- [Filosofia](./docs/filosofia.md)
+- [Principios](./docs/principios.md)
+- [Proceso](./docs/proceso.md)
+- [Modelo operativo](./docs/modelo-operativo.md)
+
 ## Definicion
 
 El SOE es una metodologia de transformacion y operacion empresarial que construye

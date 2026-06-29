@@ -8,17 +8,18 @@ metodologia.
 
 ## Documentos iniciales
 
+- [Filosofia](./filosofia.md): explica por que existe SOE y que problema busca
+  resolver.
+- [Principios](./principios.md): define reglas de criterio para tomar decisiones
+  dentro de la metodologia.
+- [Proceso](./proceso.md): describe como aplicar SOE paso a paso en una empresa.
 - [Modelo operativo](./modelo-operativo.md): explica que es un modelo operativo,
   como se relaciona con cursogramas y como puede usarse para derivar
   documentacion, software, automatizaciones e IA.
 
 ## Documentos previstos
 
-- `filosofia.md`
-- `principios.md`
-- `proceso.md`
 - `componentes.md`
 - `implementacion-tecnica.md`
 - `gobernanza.md`
 - `evolucion.md`
-
