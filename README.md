@@ -257,6 +257,9 @@ stack ni el mismo grado de formalizacion desde el primer dia.
 
 Este repositorio debe evolucionar en etapas.
 
+La documentacion detallada vive en [docs/](./docs/). El README principal debe
+funcionar como puerta de entrada y estado de alto nivel.
+
 ### Etapa 1: documentar la metodologia
 
 Primero se debe definir con claridad:
@@ -306,7 +309,7 @@ Ejemplos futuros:
 - construir ASM para una empresa;
 - modelar procesos;
 - definir entidades de negocio;
-- diseñar agentes de IA;
+- disenar agentes de IA;
 - proponer automatizaciones;
 - generar documentacion operativa;
 - evaluar gobernanza del conocimiento.
@@ -343,4 +346,3 @@ Este repositorio esta en una etapa conceptual inicial.
 
 El objetivo actual es documentar y madurar la metodologia antes de convertirla en
 plantillas, herramientas, skills o implementaciones tecnicas cerradas.
-
