@@ -5,6 +5,7 @@ técnicas, plantillas y criterios de decisión.
 
 - [Proceso](./proceso.md) — el paso a paso de aplicación en una empresa.
 - [Modelo operativo](./modelo-operativo.md) — cómo representar la operación (con plantilla).
+- [Entregable `<empresa>-soe`](./entregable-soe.md) — cómo se arma el SOE de cada empresa.
 - [Implementación técnica](./implementacion-tecnica.md) — el stack posible y cómo elegirlo.
 - [Plantillas](./plantillas/) — plantillas reutilizables.
 
