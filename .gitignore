@@ -2,3 +2,7 @@
 .vscode/
 .idea/
 *.log
+
+# Preview local de docs (Docsify) — descomentar para publicar en GitHub Pages
+index.html
+_sidebar.md

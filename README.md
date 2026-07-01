@@ -7,6 +7,7 @@ No es el SOE de ninguna empresa en particular. Es la IP del método. El SOE de
 cada cliente —el entregable— vive en su propio repositorio (`<empresa>-soe`).
 
 > **Definición canónica:** [publico/que-es-soe.md](./publico/que-es-soe.md)
+> **Cómo aplicar todo, de punta a punta:** [metodo/guia.md](./metodo/guia.md)
 
 ## Las tres cosas que no hay que confundir
 
