@@ -49,7 +49,8 @@ en su propio repositorio:
 ```text
 metodologia-soe/
   publico/        # capa vendible: qué es SOE, filosofía, principios, componentes, valor, servicio
-  metodo/         # capa interna: proceso, modelo operativo, implementación técnica, plantillas
+  metodo/         # capa interna: guía, proceso, modelo operativo, plantillas, arquitectura de repos
+  skills/         # skills ejecutables para agentes (ej. soe-bootstrap)
 ```
 
 Dos capas según audiencia:

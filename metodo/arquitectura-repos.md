@@ -75,4 +75,5 @@ Repo Git -> VPS (clona/pull) -> QMD (indexa) -> LLM -> Panel web
 - El **toolkit ASM se ocupa solo de `knowledge/`.** No conoce el resto de las
   capas del SOE (`model/`, `systems/`, `automations/`, `governance/`).
 - El **scaffold completo de `<empresa>-soe`** es responsabilidad de la metodología
-  (ver [entregable](./entregable-soe.md)). A futuro, un skill `soe-bootstrap`.
+  (ver [entregable](./entregable-soe.md)), automatizado por el skill
+  [soe-bootstrap](../skills/soe-bootstrap/SKILL.md).

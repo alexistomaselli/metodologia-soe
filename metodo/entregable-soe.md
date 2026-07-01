@@ -50,7 +50,8 @@ produce la metodología: el SOE de la empresa.
 - El **toolkit ASM** se ocupa **solo de `knowledge/`**. No conoce el resto de las
   capas del SOE.
 - El **scaffold completo de `<empresa>-soe`** es responsabilidad de la metodología
-  SOE (este repo). A futuro puede convertirse en un skill `soe-bootstrap`.
+  SOE (este repo), automatizado por el skill
+  [soe-bootstrap](../skills/soe-bootstrap/SKILL.md).
 
 ## Principio del entregable
 
