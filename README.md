@@ -9,6 +9,10 @@ cada cliente —el entregable— vive en su propio repositorio (`<empresa>-soe`)
 > **Definición canónica:** [publico/que-es-soe.md](./publico/que-es-soe.md)
 > **Cómo aplicar todo, de punta a punta:** [metodo/guia.md](./metodo/guia.md)
 
+## Vista general
+
+![Infografía de la Metodología SOE](./infografia-soe.png)
+
 ## Las tres cosas que no hay que confundir
 
 - **SOE** — la capa operativa que la empresa tiene y opera (su conocimiento,
