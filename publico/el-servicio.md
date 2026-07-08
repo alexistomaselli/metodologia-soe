@@ -22,15 +22,19 @@ relación sostenida con una **economía mensual predecible**.
    Excepción: si la empresa ya lo tiene clarísimo y trae fuentes, es más corto,
    pero existe igual.
         ↓
-   PROPUESTA              → acá se define el PRESUPUESTO del diagnóstico (fijo) y
-                            se plantea el modelo de la Fase 1.
+   PROPUESTA              → plan + presupuesto a medida (del análisis del contacto
+                            inicial). Cómo entra el diagnóstico depende del modelo
+                            de Fase 1 (ver abajo).
         ↓
-1. FASE 0 — Diagnóstico   [pago · precio fijo]
+1. DIAGNÓSTICO           [entender antes de proponer]
    Entrada de bajo riesgo. Se entiende la empresa y se reencuadra su pedido.
-   Entregable: arranque del SOE (knowledge/ sembrado) + roadmap con los frentes
-   de trabajo priorizados.
+   Entregable: arranque del SOE (knowledge/ sembrado) + roadmap priorizado.
+   · Modelo A (bolsa): se absorbe en las primeras horas del programa (no es fase
+     pagada aparte).
+   · Modelo B (retainer+builds): fase pagada aparte, precio fijo (produce el
+     roadmap que cotiza los builds).
         ↓
-2. FASE 1 — Programa       [relación continua · área tercerizada]
+2. PROGRAMA — Fase 1       [relación continua · área tercerizada]
    Ejecución del roadmap: modelado, asesoría, automatizaciones, builds. El
    contenido varía por empresa; la mecánica es estable.
 ```
@@ -39,8 +43,10 @@ relación sostenida con una **economía mensual predecible**.
 
 Esto es lo que suele confundirse:
 
-- **Diagnóstico:** se define **en la propuesta**, *después* del contacto inicial y
-  *antes* del diagnóstico pago. Precio fijo. **No se define dentro del diagnóstico.**
+- **Diagnóstico:** cuando se cobra aparte (Modelo B), su precio se define **en la
+  propuesta** —después del contacto inicial, antes del diagnóstico pago—, nunca
+  dentro del diagnóstico. En Modelo A no es un ítem separado: se absorbe en el
+  programa.
 - **Fase 1 (programa):** depende del modelo (abajo). La bolsa de horas se puede
   fijar en la misma propuesta; el esquema de builds por valor se cierra contra el
   roadmap que sale del diagnóstico.
@@ -65,7 +71,8 @@ para cotizarlos.
 
 ## Lógica de precios (vale para los dos modelos)
 
-1. **Diagnóstico: precio fijo por entregable**, no por horas.
+1. **Diagnóstico (si se cobra aparte, Modelo B): precio fijo por entregable**, no
+   por horas. En Modelo A se absorbe en el programa.
 2. **Lo mensual, predecible:** bolsa fija o retainer plano — el "fee tranqui" que
    evita renegociar cada tarea.
 3. **En builds por valor:** un sistema vale por lo que resuelve, no por lo que
@@ -85,9 +92,9 @@ para cotizarlos.
 
 ```text
 Contacto inicial: reunión (Fathom) → detectar necesidad + primera fuente.
-Propuesta:
-  Diagnóstico (3 sem): precio fijo.
-  Fase 1 (Modelo A): bolsa de 40 hs/mes × rate = mensual fijo, sin contrato.
+Propuesta (Modelo A):
+  Sin diagnóstico pago aparte: el relevamiento entra en el programa.
+  Bolsa de 40 hs/mes × rate = mensual fijo, sin contrato.
     Foco inicial: módulo contable; horas móviles a lo que más rinda cada mes.
 ```
 
@@ -95,5 +102,5 @@ Propuesta:
 
 - **Facturar los builds a su valor durante el build** (no diluidos): si la empresa
   se va antes, el valor ya está cobrado.
-- **Diagnóstico creditable (opcional):** acreditar parte al primer mes del programa
-  facilita el cierre (aversión a la pérdida a favor).
+- **Diagnóstico creditable (opcional, Modelo B):** acreditar parte al primer mes del
+  programa facilita el cierre (aversión a la pérdida a favor).

@@ -28,10 +28,11 @@ Antes del diagnóstico pago hay una etapa de **contacto inicial**: una o más
 reuniones para detectar la necesidad, calificar si hay fit y recolectar las
 primeras fuentes (una reunión grabada, documentos que traiga el cliente).
 
-Es pre-venta (sin costo o low-touch). Su salida es **la propuesta**, donde se
-define el **presupuesto del diagnóstico** (fijo) y se plantea el modelo de la
-Fase 1. Si la empresa ya lo tiene clarísimo y trae fuentes, es corto, pero existe
-igual: no se cotiza a ciegas.
+Es pre-venta (sin costo o low-touch). Su salida es **la propuesta**: plan +
+presupuesto a medida. Cómo entra el diagnóstico depende del modelo de Fase 1
+—fase pagada aparte (precio fijo) en Modelo B, o absorbido en el programa en
+Modelo A—. Si la empresa ya lo tiene clarísimo y trae fuentes, es corto, pero
+existe igual: no se cotiza a ciegas.
 
 > El presupuesto NO se define dentro del diagnóstico. Se define antes, en la
 > propuesta que sale del contacto inicial. Ver

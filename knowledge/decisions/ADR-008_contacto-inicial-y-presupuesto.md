@@ -36,3 +36,15 @@ del diagnóstico no puede definirse *dentro* del diagnóstico.
   programa.
 - Se documentan ambos modelos (antes solo estaba B). Los Médanos usa A.
 - Cambios: `publico/el-servicio.md`, `metodo/proceso.md` (paso 0).
+
+## Actualización (2026-07-08)
+
+Refinamiento del punto 2 tras redactar la propuesta real de Los Médanos: el
+diagnóstico **como fase pagada aparte es propio del Modelo B**. En el **Modelo A
+(bolsa de horas)** no se cobra por separado — el relevamiento inicial se **absorbe
+en las primeras horas del programa**. El principio se mantiene (el presupuesto se
+define en la propuesta, a partir del análisis del contacto inicial); lo que pasa a
+ser **dependiente del modelo** es la existencia de un diagnóstico pago separado.
+
+Reflejado en: `metodo/plantillas/plantilla-propuesta.md` (dos modelos + contacto
+inicial), `publico/el-servicio.md`, `metodo/proceso.md`.
