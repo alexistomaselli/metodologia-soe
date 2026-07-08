@@ -9,6 +9,7 @@ y expandirse gradualmente.
 ## Vista general
 
 ```text
+0. Contacto inicial (pre-venta)
 1. Diagnostico
 2. Relevamiento y documentacion
 3. Construccion de ASM
@@ -20,6 +21,21 @@ y expandirse gradualmente.
 9. Gobernanza
 10. Evolucion continua
 ```
+
+## 0. Contacto inicial (pre-venta)
+
+Antes del diagnóstico pago hay una etapa de **contacto inicial**: una o más
+reuniones para detectar la necesidad, calificar si hay fit y recolectar las
+primeras fuentes (una reunión grabada, documentos que traiga el cliente).
+
+Es pre-venta (sin costo o low-touch). Su salida es **la propuesta**, donde se
+define el **presupuesto del diagnóstico** (fijo) y se plantea el modelo de la
+Fase 1. Si la empresa ya lo tiene clarísimo y trae fuentes, es corto, pero existe
+igual: no se cotiza a ciegas.
+
+> El presupuesto NO se define dentro del diagnóstico. Se define antes, en la
+> propuesta que sale del contacto inicial. Ver
+> [el-servicio.md](../publico/el-servicio.md).
 
 ## 1. Diagnostico
 

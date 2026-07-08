@@ -6,116 +6,94 @@ Cómo se contrata y se sostiene la aplicación de la Metodología SOE.
 
 El servicio no es un proyecto con entrega final. Es un **área de sistemas y
 digitalización tercerizada**: el asesor funciona como un departamento técnico
-fraccionado dentro de la empresa, sostenido en el tiempo por contrato, hasta que
-la empresa decida no continuar.
+fraccionado dentro de la empresa, sostenido en el tiempo hasta que la empresa
+decida no continuar.
 
-La meta es una relación sostenida con un **fee mensual fijo** (retainer), no un
-encargo puntual.
+SOE **no tiene precio de catálogo**: es una metodología. El presupuesto se arma a
+medida —reuniones iniciales → análisis → plan y presupuesto—. La meta es una
+relación sostenida con una **economía mensual predecible**.
 
-## El camino (igual para todas las empresas)
-
-La estructura es siempre la misma. Lo que cambia entre empresas es el *contenido*
-del programa, no su mecánica.
+## El camino
 
 ```text
-FASE 0 — Diagnóstico            [universal · precio fijo]
-  Entrada de bajo riesgo. Se entiende la empresa y se reencuadra su pedido
-  dentro del panorama completo.
-  Entregable: arranque del SOE (knowledge/ sembrado) + roadmap con los frentes
-  de trabajo y su tamaño aproximado.
-
-FASE 1 — Programa              [universal en mecánica · variable en contenido]
-  La relación continua: el área de sistemas tercerizada.
-  - Retainer base plano (mensual fijo): el área disponible —modelado, asesoría,
-    mantenimiento, mejoras chicas, evolución del SOE.
-  - Builds / módulos por valor: cuando el roadmap activa un desarrollo grande
-    (un sistema, un módulo), se cotiza por su valor, no por horas. El mensual
-    sube durante esos meses y vuelve al base cuando no hay build activo.
+0. CONTACTO INICIAL       [pre-venta · sin costo o low-touch]
+   1 o más reuniones para detectar la necesidad, calificar si hay fit y recolectar
+   las primeras fuentes (ej. una reunión grabada → knowledge/fuentes/).
+   Excepción: si la empresa ya lo tiene clarísimo y trae fuentes, es más corto,
+   pero existe igual.
+        ↓
+   PROPUESTA              → acá se define el PRESUPUESTO del diagnóstico (fijo) y
+                            se plantea el modelo de la Fase 1.
+        ↓
+1. FASE 0 — Diagnóstico   [pago · precio fijo]
+   Entrada de bajo riesgo. Se entiende la empresa y se reencuadra su pedido.
+   Entregable: arranque del SOE (knowledge/ sembrado) + roadmap con los frentes
+   de trabajo priorizados.
+        ↓
+2. FASE 1 — Programa       [relación continua · área tercerizada]
+   Ejecución del roadmap: modelado, asesoría, automatizaciones, builds. El
+   contenido varía por empresa; la mecánica es estable.
 ```
 
-- **Lo universal:** diagnóstico fijo → programa con retainer base + builds por valor.
-- **Lo variable (por empresa):** qué frentes tiene el roadmap y cuáles son builds.
-  Una empresa puede tener un build grande al inicio; otra, solo modelado y
-  automatizaciones; otra, varios módulos en el tiempo.
+## Dónde se define cada presupuesto
 
-## La Fase 1 es de apertura estructurada
+Esto es lo que suele confundirse:
 
-El Paso 2 no es "build": es **ejecución del roadmap**. Mes a mes se define si toca
-un build, modelado, automatización o asesoría, según lo que el diagnóstico haya
-priorizado.
+- **Diagnóstico:** se define **en la propuesta**, *después* del contacto inicial y
+  *antes* del diagnóstico pago. Precio fijo. **No se define dentro del diagnóstico.**
+- **Fase 1 (programa):** depende del modelo (abajo). La bolsa de horas se puede
+  fijar en la misma propuesta; el esquema de builds por valor se cierra contra el
+  roadmap que sale del diagnóstico.
 
-"Abierto" no significa cheque en blanco: el roadmap de la Fase 0 ya dice *cuáles*
-son los frentes y su tamaño. La apertura es sobre el ritmo, no sobre el alcance.
+## Modelos de Fase 1 (se elige por cliente)
 
-## Lógica de precios
+**Modelo A — Bolsa de horas mensual.**
+Un paquete de X horas/mes a un rate fijo, sin ataduras; el alcance de cada mes se
+acuerda según prioridades. Simple de cotizar por adelantado y de baja fricción.
+Ideal cuando el cliente valora flexibilidad y no querés atarte a scope cerrado.
 
-Tres reglas simples sostienen todo el modelo:
+**Modelo B — Retainer base + builds por valor.**
+Un fee mensual plano (el área disponible: modelado, asesoría, mantenimiento,
+evolución) y, cuando el roadmap activa un desarrollo grande, se cotiza **por su
+valor** (no por horas). Captura más valor en los builds, pero requiere el roadmap
+para cotizarlos.
 
-1. **Diagnóstico: precio fijo por entregable** (no por horas). Vender horas
-   commoditiza y techa el valor.
-2. **Retainer base: mensual fijo y plano.** Es el "fee tranqui": cubre la relación
-   continua sin renegociar cada tarea.
-3. **Builds: por valor, ≥ el piso del entregable.** La velocidad que da la IA es
-   *margen del asesor*, no descuento del cliente. Un sistema vale por lo que
-   resuelve, no por lo que tardó.
+> Tensión honesta: la bolsa de horas es más simple pero *commoditiza* (vendés
+> tiempo); los builds por valor capturan la ventaja de la IA (velocidad = margen).
+> Elegí según el cliente, su madurez y cuánto valora la flexibilidad vs. el precio
+> cerrado.
 
-> Principio rector: **lo que se cobra cada mes refleja el valor entregado ese
-> mes.** El build vale por el sistema; el continuo vale por tener el área
-> disponible.
+## Lógica de precios (vale para los dos modelos)
 
-## Cómo se logra el retainer (las palancas)
+1. **Diagnóstico: precio fijo por entregable**, no por horas.
+2. **Lo mensual, predecible:** bolsa fija o retainer plano — el "fee tranqui" que
+   evita renegociar cada tarea.
+3. **En builds por valor:** un sistema vale por lo que resuelve, no por lo que
+   tardó. La velocidad de la IA es *margen del asesor*, no descuento del cliente.
 
-El diagnóstico no compite con el retainer: lo **vende**.
+## Palancas para sostener la relación
 
-1. **Vender un sistema vivo, no un software.** Desde la Fase 0 el encuadre es
+1. **Vender un sistema vivo, no un software.** Desde el inicio el encuadre es
    "construyo y opero tu sistema", no "te entrego un programa y me voy".
-2. **El build es el primer entregable de la relación, no una compra aparte.** Para
-   obtenerlo, la empresa entra al programa. No se vende el build suelto.
-3. **El roadmap justifica la duración.** No se venden "meses": se vende recorrer
-   un plan que, por su tamaño, claramente lleva ese tiempo.
+2. **El primer build es la puerta a la relación**, no una compra suelta.
+3. **El roadmap justifica la continuidad.** No se venden "meses": se vende
+   recorrer un plan que por su tamaño lleva ese tiempo.
 4. **El SOE necesita upkeep.** Un sistema a medida no tiene fábrica detrás; el
-   conocimiento vivo se desactualiza solo. El retainer es quien lo mantiene vivo.
+   acompañamiento lo mantiene vivo.
 
-## Cómo se presenta la propuesta
-
-Tras el diagnóstico, se presenta **un programa**, con el build como su primer hito,
-y una salida deliberadamente peor para que el programa se vea como la opción
-obvia:
+## Ejemplo (Los Médanos · ilustrativo)
 
 ```text
-OPCIÓN A — Programa SOE  (recomendado)
-  El área de sistemas tercerizada.
-  - Retainer base mensual fijo
-  - Primer entregable según roadmap (ej. un sistema) facturado durante su build
-  - Incluye mantenimiento, modelado del resto, evolución del SOE, asesoría
-
-OPCIÓN B — Solo build  (no recomendado)
-  - El sistema, a precio pleno
-  - Sin mantenimiento ni evolución incluidos; soporte posterior à la carte
-  - Sin modelado del resto ni SOE vivo
+Contacto inicial: reunión (Fathom) → detectar necesidad + primera fuente.
+Propuesta:
+  Diagnóstico (3 sem): precio fijo.
+  Fase 1 (Modelo A): bolsa de 40 hs/mes × rate = mensual fijo, sin contrato.
+    Foco inicial: módulo contable; horas móviles a lo que más rinda cada mes.
 ```
 
-## Ejemplo ilustrativo (calibrar por empresa)
+## Protección
 
-Empresa que hoy paga un software enlatado que no le resuelve (ancla de precio).
-
-```text
-Fase 0 — Diagnóstico (3 sem): 800 (único)
-         Entregable: arranque del SOE + roadmap.
-
-Fase 1 — Programa
-  Meses con build (ej. 3): retainer base + valor del build prorrateado.
-    (ej. sistema valuado en 3000 -> ~1000/mes de build sobre el base)
-  Meses sin build: retainer base plano (ej. 600/mes), por los meses del roadmap.
-```
-
-> Los números son ilustrativos. Cada empresa calibra el diagnóstico, el retainer y
-> el valor de los builds según su contexto, su ancla de costo actual y su roadmap.
-
-## Protección y continuidad
-
-- **Facturar el build durante el build** (no diluido a 12 meses): si la empresa se
-  va antes, el valor del build ya está cobrado.
-- **Compromiso mínimo atado al roadmap**, fijado al cerrar el diagnóstico.
-- **Diagnóstico creditable (opcional):** acreditar parte del diagnóstico al primer
-  mes del programa facilita el cierre, usando la aversión a la pérdida a favor.
+- **Facturar los builds a su valor durante el build** (no diluidos): si la empresa
+  se va antes, el valor ya está cobrado.
+- **Diagnóstico creditable (opcional):** acreditar parte al primer mes del programa
+  facilita el cierre (aversión a la pérdida a favor).
