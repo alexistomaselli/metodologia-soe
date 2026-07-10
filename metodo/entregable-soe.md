@@ -16,7 +16,9 @@ produce la metodología: el SOE de la empresa.
     foundations/
     decisions/
     processes/
-    live/
+    fuentes/         # material crudo de relevamiento recibido (ADR-006)
+    comercial/       # artefactos de la relación producidos/enviados (ADR-009)
+    live/            # bitácora: daily/ + hitos.md
   model/             # modelo operativo estructurado (entidades, estados, reglas, eventos)
   systems/           # inventario de herramientas + enlaces a sus repos de código
   automations/       # definiciones de automatizaciones (evento, condición, acción, regla)

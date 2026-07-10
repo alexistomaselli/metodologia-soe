@@ -73,7 +73,8 @@ Sembrá la carpeta `knowledge/` con el toolkit ASM:
 
 - Invocá la skill `asm-bootstrap` (repo `agentic-shared-memory`), que hace la
   entrevista y genera `knowledge/current_state.md`, `knowledge/decisions/ADR-001`
-  y las subcarpetas (`foundations/`, `decisions/`, `processes/`, `live/`).
+  y las subcarpetas (`foundations/`, `decisions/`, `processes/`, `fuentes/`,
+  `comercial/`, `live/` con `daily/` y `hitos.md`).
 - Si el toolkit no está disponible como skill, copiá su `template/knowledge/` al
   `knowledge/` del repo.
 
