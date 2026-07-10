@@ -6,3 +6,6 @@
 # Preview local de docs (Docsify) — descomentar para publicar en GitHub Pages
 index.html
 _sidebar.md
+
+# Bitácora/ADRs internos (dogfooding) — NO compartir. Queda local, fuera del repo público.
+knowledge/

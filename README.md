@@ -55,7 +55,6 @@ metodologia-soe/
   publico/        # capa vendible: qué es SOE, filosofía, principios, componentes, valor, servicio
   metodo/         # capa interna: guía, proceso, modelo operativo, plantillas, arquitectura de repos
   skills/         # skills ejecutables para agentes (ej. soe-bootstrap)
-  knowledge/      # memoria ASM del propio proyecto: bitácora + decisiones (dogfooding)
 ```
 
 Dos capas según audiencia:

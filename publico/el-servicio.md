@@ -88,14 +88,14 @@ para cotizarlos.
 4. **El SOE necesita upkeep.** Un sistema a medida no tiene fábrica detrás; el
    acompañamiento lo mantiene vivo.
 
-## Ejemplo (Los Médanos · ilustrativo)
+## Ejemplo ilustrativo (una empresa con software enlatado)
 
 ```text
-Contacto inicial: reunión (Fathom) → detectar necesidad + primera fuente.
+Contacto inicial: reunión grabada → detectar necesidad + primera fuente.
 Propuesta (Modelo A):
   Sin diagnóstico pago aparte: el relevamiento entra en el programa.
-  Bolsa de 40 hs/mes × rate = mensual fijo, sin contrato.
-    Foco inicial: módulo contable; horas móviles a lo que más rinda cada mes.
+  Bolsa de N hs/mes × rate = mensual fijo, sin contrato.
+    Foco inicial: el sistema prioritario; horas móviles a lo que más rinda cada mes.
 ```
 
 ## Protección
